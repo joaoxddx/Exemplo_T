@@ -146,6 +146,7 @@ int main()
             break;
         }
         op = menu();
+        cout << "mensagem de teste adicionada" << endl;
     }
    
 }
